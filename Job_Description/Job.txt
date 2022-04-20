@@ -1,0 +1,32 @@
+Amazon is seeking a Software Development Engineer who can design and develop systems and applications for its businesses. We are an entrepreneurial team looking for a customer-obsessed, self-starting engineer who has good business acumen, is comfortable dealing with ambiguity and is excited about building software that solves business problems
+
+In this role you will build critical business applications that requires an understanding of our business, abilities to invent and simplify, These products are a healthy mix of new, V1, and scalable V2 products for a rapidly growing business. As an SDE, you would have immense opportunity to explore avenues of how to model things, figure out right abstraction level, take judgement calls around multiple design trade offs at hand that influence a multi billion dollar business
+
+We are looking for highly talented software development engineers who are passionate not only about architecting and developing large scale distributed technology solutions but also innovating new ideas and providing directions to our business. You will get to work on some of the key initiatives planned to support our rapid evolution and growth of our businesses and in the process drive best practices, mentor other engineers and drive continuous improvements in engineering and operational excellence.
+
+As we all say at Amazon, our team is truly at a Day 1 stage and we have just started. Join us and help us to build software that scales the business, leads the industry through innovation, delights millions of customers worldwide and generates billions of dollars for Amazon.
+
+In this role you will:
+
+Build highly available, secure, distributed systems in a microservices architecture.
+Collaborate with some of the best engineers in the industry to work on complex challenges in large-scale computing and find out what it takes to engineer systems for “Amazon Scale."
+Own, build and operate external customer facing systems that demand stringent service-level agreements.
+BASIC QUALIFICATIONS
+0-2 years of relevant work experience
+
+Bachelor’s degree (or higher) in Computer Science or related discipline - graduation year should be either 2019, 2020 or 2021
+Experience in software development building successful production software systems.
+Strong understanding of computer science fundamentals, including algorithms, complexity analysis, data structures, problem solving, and object-oriented analysis
+Excellent verbal and written communication skills
+Experience developing software services and an understanding of design for scalability, performance and reliability.
+Experience with modern object-oriented programming languages such as Java, Ruby, or C#, preferably on a UNIX or Linux platform.
+Ability to work in a fast paced, agile environment and in an ownership and results-oriented culture.
+PREFERRED QUALIFICATIONS
+Proficiency developing in at least one if the following programming languages: C, C++, Java, C# or Python
+Linux / UNIX system experience
+Knowledge of database system internals
+Proficiency in object-oriented design
+Hands-on experience with AWS APIs and services
+Effective verbal and written communication skills
+B.Tech or equivalent degree in Computer Science
+Proficiency in understanding and implementation of design patterns
